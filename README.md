@@ -11,3 +11,5 @@ This is an application for managing employee profiles
     npm pack
 
 Application runs on port 3000
+
+## Enjoy
