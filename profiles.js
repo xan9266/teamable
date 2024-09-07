@@ -1,2 +1,2 @@
-const userProfiles = []
-const avatar = []
+const userProfiles = {};
+const avatar = [];
