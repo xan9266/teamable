@@ -1,2 +1,2 @@
-const profiles = []
+const userProfiles = []
 const avatar = []
